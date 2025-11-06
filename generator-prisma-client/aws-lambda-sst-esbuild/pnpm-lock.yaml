@@ -12,8 +12,8 @@ dependencies:
     specifier: 6.15.0-integration-fix-prisma-client-dirname-aws-lambda.3
     version: 6.15.0-integration-fix-prisma-client-dirname-aws-lambda.3(prisma@6.15.0-integration-fix-prisma-client-dirname-aws-lambda.3)
   sst:
-    specifier: 3.17.14
-    version: 3.17.14
+    specifier: 3.17.22
+    version: 3.17.22
 
 devDependencies:
   '@types/aws-lambda':
@@ -1512,72 +1512,72 @@ packages:
     engines: {node: '>= 10.x'}
     dev: false
 
-  /sst-darwin-arm64@3.17.14:
-    resolution: {integrity: sha512-ItOltB8HH+8XSS7FnQfR/yqsJVMr+/HvibBCNOf57WnjuNqWGLB4db/ESCeYuaQqpjpUt5lrT9ezflWrf4O9Tg==}
+  /sst-darwin-arm64@3.17.22:
+    resolution: {integrity: sha512-B2pKq1dWc60+7HfXQ6/9etskxxNv9axxlQKveCLQAuG2a3mmtv2/jcR0Ch3mvSTGtW+KfhzUXda2kj7nZ/phBA==}
     cpu: [arm64]
     os: [darwin]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-darwin-x64@3.17.14:
-    resolution: {integrity: sha512-J22TN1Fa878qUXsZtPybzrUbGd68p6CjXpmpqMVTyKJ9u/purkO2TiXtcFs7Ow4nr1RuCXFKo3eQ1fHDeO9YUg==}
+  /sst-darwin-x64@3.17.22:
+    resolution: {integrity: sha512-flikYqXvhwwrS6x2FDOde+MQODHaZCIbUkVHYO3/gYo99rbAMQ8VpC/3LXnmnPEQkLOwWCSzLp4S4F9nG/PW2g==}
     cpu: [x64]
     os: [darwin]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-linux-arm64@3.17.14:
-    resolution: {integrity: sha512-5wivBPIcRClHdWknp4z/lww7WyU27YkHEfF2lmt7dDS1XtM3VfTW1GdzQDsaox3wdIAmpKeYF5Wg79+cCRM/iA==}
+  /sst-linux-arm64@3.17.22:
+    resolution: {integrity: sha512-+pyD8Oej9js8XeCCebiEIde02vC5hc+bLl2/jR02K+9gYkGVJ6n5bkT8AlR8zWdS4FJKPyeJYUfjliT1T33j+g==}
     cpu: [arm64]
     os: [linux]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-linux-x64@3.17.14:
-    resolution: {integrity: sha512-fAaTdD6eP3kuNzkGVdYu3MOuNJkpm1rOH5Um2R2gbjtHwZ0QwP8r0f1d/ghP2kHXdgJqiNwqBbZmOuRCqmCuRA==}
+  /sst-linux-x64@3.17.22:
+    resolution: {integrity: sha512-A5p941edP9wgfgsbLUMeEPvi9JExj0OSaxgtFAC6/6BYoW4zruGAPzq206Ln6dNYP3gRdo5TJbSjio3F0ot8qg==}
     cpu: [x64]
     os: [linux]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-linux-x86@3.17.14:
-    resolution: {integrity: sha512-I0/IQmBk/4o1FVzMov9Ombxab4GzGNxGoyC3HTqDCRwC4jS9mnv5eTTpOQ57kGYehSnzUcflDPLZtVmKCc19+Q==}
+  /sst-linux-x86@3.17.22:
+    resolution: {integrity: sha512-pFDIi+ZwH8GOvy5He9wsbAjRGf/sTGhGE/V480w0A6itb9BC4jQ9sblJkk3Jx/fP2g27pKN2RNz+ifOU+GrUYQ==}
     cpu: [x86]
     os: [linux]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-win32-arm64@3.17.14:
-    resolution: {integrity: sha512-fueSfZqrGcPlhN0Lm5HpmDcCKr+JmMBBBjt38HlRU08ekY7lB05QAWNXgyBwXxLdXqVIFHCUaO2Mf4K+SMCv9A==}
+  /sst-win32-arm64@3.17.22:
+    resolution: {integrity: sha512-9KaIrk+Z6hLDNi9GShf9NLrZi9jC/NNGpUAn6HvTXr8c6HUyQzg6takMH8nrISGCPn92y+IYWqdglaqbgnJTog==}
     cpu: [arm64]
     os: [win32]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-win32-x64@3.17.14:
-    resolution: {integrity: sha512-DO8U5Uno2iD1N+AgJPde4nTP8oIeBI/rTaW5yuxJSW8cMMzySi9vQ45wz9vyZDteoHzmSwtnoC8QhZMgs0gVnQ==}
+  /sst-win32-x64@3.17.22:
+    resolution: {integrity: sha512-cvzyet4octGHK7w05jPUSPmUdlAWyh8IzjB8Pcs873K9AUGJEtQCftOKZjXaFdIG9DTvFWCCBi9zdzClxT9jJg==}
     cpu: [x64]
     os: [win32]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst-win32-x86@3.17.14:
-    resolution: {integrity: sha512-Q+QKLERFU05wzYpcIhGX0XaLe+jsMuh95IQnrGDU8f82LM1KdWY+a62BaY1J4lbGpNrdZO22GXwIcqrFZOw8qA==}
+  /sst-win32-x86@3.17.22:
+    resolution: {integrity: sha512-ol5icDJuHzG+AjbGbCIQoF8z3oiikTF9CtccdK/udqEF861DnngWzM99IY5TJvmJlN+38yOV0MY4XI5hM6SEQA==}
     cpu: [x86]
     os: [win32]
     requiresBuild: true
     dev: false
     optional: true
 
-  /sst@3.17.14:
-    resolution: {integrity: sha512-HkyMnBj55DZjzgNFoHQ1XPr9vXi2UHWz3TkuboyCybpJQcR7vW4za8uDDDPivAcUyqQe2aP8pzuxL6+cAztqsg==}
+  /sst@3.17.22:
+    resolution: {integrity: sha512-C+XMTbm6fx+7eT+ESAMATqG7qV7+pyVfxYQb6osdH3jd4u91QW1VU/xlEru+RU1rs1ZE58ixXdRP75UGPn+gog==}
     hasBin: true
     dependencies:
       aws-sdk: 2.1692.0
@@ -1586,14 +1586,14 @@ packages:
       opencontrol: 0.0.6
       openid-client: 5.6.4
     optionalDependencies:
-      sst-darwin-arm64: 3.17.14
-      sst-darwin-x64: 3.17.14
-      sst-linux-arm64: 3.17.14
-      sst-linux-x64: 3.17.14
-      sst-linux-x86: 3.17.14
-      sst-win32-arm64: 3.17.14
-      sst-win32-x64: 3.17.14
-      sst-win32-x86: 3.17.14
+      sst-darwin-arm64: 3.17.22
+      sst-darwin-x64: 3.17.22
+      sst-linux-arm64: 3.17.22
+      sst-linux-x64: 3.17.22
+      sst-linux-x86: 3.17.22
+      sst-win32-arm64: 3.17.22
+      sst-win32-x64: 3.17.22
+      sst-win32-x86: 3.17.22
     transitivePeerDependencies:
       - supports-color
     dev: false
