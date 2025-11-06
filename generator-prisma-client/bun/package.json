@@ -4,13 +4,13 @@
   "type": "module",
   "devDependencies": {
     "bun-types": "1.2.23",
-    "prisma": "6.15.0"
+    "prisma": "6.19.0"
   },
   "peerDependencies": {
     "typescript": "5.9.2"
   },
   "dependencies": {
-    "@prisma/client": "6.15.0",
+    "@prisma/client": "6.19.0",
     "@prisma/extension-accelerate": "2.0.2"
   }
 }
